@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sujeesh_inter</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Saved</string>
+    <string name="title_notifications">Alert</string>
+    <string name="profile">Profile</string>
+    <string name="title">Hai Name, You have joined the Thapovan Team Revolution.Welcome </string>
+</resources>
